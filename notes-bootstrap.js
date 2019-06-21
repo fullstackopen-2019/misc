@@ -91,19 +91,19 @@ const App = () => {
   const [notes, setNotes] = useState([
     {
       id: 1,
-      content: 'HTML on helppoa',
+      content: 'HTML is easy',
       important: true,
       user: 'Matti Luukkainen'
     },
     {
       id: 2,
-      content: 'Selain pystyy suorittamaan vain javascriptiä',
+      content: 'Browser can execute only Javascript',
       important: false,
       user: 'Matti Luukkainen'
     },
     {
       id: 3,
-      content: 'HTTP-protokollan tärkeimmät metodit ovat GET ja POST',
+      content: 'The most important methods of HTTP protocol are ovat GET are POST',
       important: true,
       user: 'Arto Hellas'
     }
