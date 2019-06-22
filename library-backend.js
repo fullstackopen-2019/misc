@@ -86,11 +86,13 @@ const books = [
 
 const typeDefs = gql`
   type Query {
+    hello: String!
   }
 `
 
 const resolvers = {
   Query: {
+    hello: () => { return "world" }
   }
 }
 
