@@ -1,6 +1,6 @@
 const { ApolloServer, gql } = require('apollo-server')
 
-const authors = [
+let authors = [
   {
     name: 'Robert Martin',
     id: "afa51ab0-344d-11e9-a414-719c6709cf3e",
@@ -32,7 +32,7 @@ const authors = [
  * For simplicity we however save the author name.
 */
 
-const books = [
+let books = [
   {
     title: 'Clean Code',
     published: 2008,
