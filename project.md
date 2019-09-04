@@ -1,7 +1,5 @@
 # Full Stack -web development project 1-10 credits
 
-> This project *does not count* as a project for bachelor's degree at University of Helsinki.
-
 In the project you create an application of your choice with React and/or Node. Also a mobile application created with React Native is possible.
 
 The backend for the application does not have to be in Node. Backend does not have to be self made, ready interfaces or services such as Firebase will do. Frontend is also possible to make with some other reasonable way than React, e.g. with Vue.js, in which case it is recommended for the application have a Node backend.
@@ -16,7 +14,7 @@ The telegram channel forl the Full Stack Course https://t.me/fullstackcourse wor
 
 Create a repository for your application and send the information via email to matti.luukkainen@helsinki.fi
 
-Remember to enroll for the course in WebOodi or [at open university site](https://courses.helsinki.fi/en/aytkt21010/129098202) if you are not a student at University of Helsinki or start after 1.5.
+Remember to enroll for the course in [at open university site](https://courses.helsinki.fi/en/aytkt21010en/130941690) 
 
 Create a short description of your application to README.md
 
@@ -38,8 +36,4 @@ Without keeping the hours, maximum amount of credits is 1.
 
 When your application is ready to be graded, send an email to matti.luukkainen@helsinki.fi
 
-The project for spring must be returned by 31.5. at 23:59 Finnish time.
-
-From the beginning of May 2019 a new version of the project begins [at open university](https://courses.helsinki.fi/en/aytkt21010/129098202). Deadline for this is 14.3.2020.
-
-You can extend your spring project at the open university project.
+The project must be returned by 14.3.2020. at 23:59 Finnish time.
