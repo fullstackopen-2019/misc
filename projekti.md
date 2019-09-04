@@ -12,13 +12,11 @@ Harjoitustyö on mahdollista tehdä myös pari- tai ryhmätyönä.
 
 Full Stack -kurssin Telegram-kanava https://t.me/fullstackcourse toimii myös harjoitustyön kanavana.
 
-**Harjoitustyön tekoon on tarjolla ohjausta huhtikuun loppuun asti maanantaisin ja perjantaisin klo 14-16 salissa B221.**
-
 ## Ilmoittautuminen ja aiheen rekisteröinti
 
 Tee sovellukselle repositorio ja kerro siitä mailitse matti.luukkainen@helsinki.fi
 
-Muista myös ilmoittautua kurssille WebOodissa tai [avoimen yliopiston sivuilla](https://courses.helsinki.fi/en/aytkt21010/129098202) jos ei ole HY:n opiskelija tai aloita 1.5. jälkeen.
+Muista myös ilmoittautua kurssille [avoimen yliopiston sivuilla](https://courses.helsinki.fi/en/aytkt21010/129098202)
 
 Tee README.md:hen lyhyt kuvaus sovelluksesta.
 
@@ -40,8 +38,4 @@ Ilman työaikakirjanpitoa kurssin maksimiopintopistemäärä on 1 op.
 
 Kun työsi on valmis arvosteltavaksi, lähetä email osoitteeseen matti.luukkainen@helsinki.fi
 
-Kevään harjoitustyöt tulee palauttaa 31.5. klo 23:59 mennessä.
-
-Toukokuun alussa alkaa uusi versio harjoitustyöstä [avoimen yliopiston](https://courses.helsinki.fi/en/aytkt21010/129098202) puolella. Avoimen harjoitustyön deadline on vasta 14.3.2020
-
-Voit laajentaa keväällä aloittamaasi työtä toukokuussa alkavassa harjoitustyössä.
+Harjoitustyöt tulee palauttaa 14.3.2020 klo 23:59 mennessä.
